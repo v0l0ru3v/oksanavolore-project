@@ -1,0 +1,13 @@
+.header {
+    background-color: #183c91;
+    padding: 1rem 0;
+    &__logo {
+        color: white;
+        text-decoration: none;
+        font-weight: 800;
+    }
+    &__link {
+        color: white;
+    }
+
+}
